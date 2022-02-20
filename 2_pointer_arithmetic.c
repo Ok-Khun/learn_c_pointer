@@ -2,7 +2,6 @@
 
 int main(){
     // Pointer Arithmetic
-    // pointer arithmetic
     char c[] = "I love C Programming.";
     char* p = &c[0];
     // address of c[0]

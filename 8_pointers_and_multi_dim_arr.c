@@ -3,7 +3,6 @@
 void func(int (*A)[2][2]){
 } 
 
-
 int main(){
     // pointers and multi dim arr
     int arr[3][2][2] = {
